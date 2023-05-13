@@ -1,0 +1,1 @@
+Otro saludo desde consola local en Oracle
